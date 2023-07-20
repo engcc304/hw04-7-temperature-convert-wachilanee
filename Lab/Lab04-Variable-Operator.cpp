@@ -29,7 +29,7 @@
 
 int main() {
 
-    //--| YOUR CODE HERE
+    printf("a");
 
     return 0 ;
 }//end main function
