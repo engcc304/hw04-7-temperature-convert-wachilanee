@@ -36,8 +36,8 @@
 #include <stdio.h>
 
 int main() {
-
-    //--| YOUR CODE HERE
+    int score = 0 ;
+    
 
     return 0 ;
 }//end main function
