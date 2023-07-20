@@ -38,7 +38,7 @@
 int  score = 0 ; main() {
     printf( "Please Enter your score : " ) ;
     scanf( "%d", &score ) ;
-    if (score >= 80 && score <= 100){
+    if (score >= 80 && score < 100){
         printf("A !") ;
     }
     if (score >= 75 && score < 80)
